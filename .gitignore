@@ -1,0 +1,6 @@
+# Large NetCDF output files (exceed GitHub 100MB limit)
+assignment_9/wb_370.nc
+assignment_9/wb_126.nc
+
+# macOS
+.DS_Store
